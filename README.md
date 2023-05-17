@@ -1,1 +1,2 @@
-# 2f2t
+# Segundo Trimestre - Mobile-First
+Pedro Lucas N. dos Santos N°31
